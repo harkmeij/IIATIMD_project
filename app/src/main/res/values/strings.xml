@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IIAtIMD_w1_v1</string>
+    <string name="welcome_text">Welcome to my app!</string>
+    <string name="second_text">Welcome to my second screen!</string>
+    <string name="to_second_screen">Go to other screen!</string>
+    <string name="login">Login!</string>
+    <string name="name">Name...</string>
+    <string name="pwd">Password...</string>
+</resources>

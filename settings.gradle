@@ -1,0 +1,2 @@
+rootProject.name='IIAtIMD_w1_v1'
+include ':app'
